@@ -19,3 +19,11 @@ pandas==1.3.4
 numpy==1.17.3
 matplotlib==3.4.3
 ```
+
+## About Dataset
+The original data set can be downloaded from the following website.[Data size:73GB]
+```
+https://challenge.aiforgood.itu.int/match/matchitem/57
+```
+
+## Code description posted to Github
