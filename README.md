@@ -27,7 +27,6 @@ https://challenge.aiforgood.itu.int/match/matchitem/57
 ```
 
 ## Code description posted to Github
-```
 - Feature extraction
   - dataset.py： Display the type and number of failures
   - fault_location.py： Display the type of failure and the location of the failure
@@ -42,4 +41,3 @@ https://challenge.aiforgood.itu.int/match/matchitem/57
 - Learning phase
   - custom_xgboost.py： Learning with xgboost 
   - test_xg_light.ipynb： Learning with light_gbm
-```
