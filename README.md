@@ -27,6 +27,8 @@ https://challenge.aiforgood.itu.int/match/matchitem/57
 ```
 
 ## Code description posted to Github
+- Data set after preprocessing
+  - ap_data： In this directory, we put the pre-processed data set.
 - Feature extraction
   - dataset.py： Display the type and number of failures
   - fault_location.py： Display the type of failure and the location of the failure
