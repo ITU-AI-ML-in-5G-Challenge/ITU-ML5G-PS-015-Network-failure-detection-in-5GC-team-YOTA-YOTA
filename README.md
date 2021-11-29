@@ -25,6 +25,24 @@ The original data set can be downloaded from the following website.[Data size:73
 ```
 https://challenge.aiforgood.itu.int/match/matchitem/57
 ```
+The data after preprocessing applying our proposed method is placed in the ap_data directory. The data and correct answer labels are as follows.
+```
+Task1:urban area
+01_a_train_data.txt
+01_a_train_label.txt
+01_a_test_data.txt
+01_a_test_label.txt
+Task1:Rural area
+01_c_train_data.txt
+01_c_train_label.txt
+01_c_test_data.txt
+01_c_test_label.txt
+Task2:Middle are
+02_b_train_data.txt
+02_b_train_label.txt
+02_b_test_data.txt
+02_b_test_label.txt
+```
 
 ## Code description posted to Github
 - Data set after preprocessing
@@ -43,3 +61,9 @@ https://challenge.aiforgood.itu.int/match/matchitem/57
 - Learning phase
   - custom_xgboost.py： Learning with xgboost 
   - test_xg_light.ipynb： Learning with light_gbm
+
+## Demo Movie
+Our demo video can be viewed at the following link.
+```
+https://drive.google.com/drive/folders/1AMJ22Fb6FQY6dWzLdMKZrA5_thShH70A?usp=sharing
+```
